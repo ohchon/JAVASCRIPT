@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": false,
+        "amount": 30
+    },
+    "auditLog": "/Users/sunghyunoh/Desktop/javascript/logs/.cacd8dfd196291920772842d870fb65ede188d52-audit.json",
+    "files": [
+        {
+            "date": 1646486166726,
+            "name": "/Users/sunghyunoh/Desktop/javascript/logs/2022-03-05.log",
+            "hash": "63b4828ab9ef2705d888cd8e11583eaa"
+        }
+    ],
+    "hashType": "md5"
+}
